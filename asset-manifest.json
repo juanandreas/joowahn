@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/joowahn/static/css/main.2cce8147.chunk.css",
+    "main.js": "/joowahn/static/js/main.a46ea944.chunk.js",
+    "main.js.map": "/joowahn/static/js/main.a46ea944.chunk.js.map",
+    "runtime~main.js": "/joowahn/static/js/runtime~main.84d177a8.js",
+    "runtime~main.js.map": "/joowahn/static/js/runtime~main.84d177a8.js.map",
+    "static/js/2.b41502e9.chunk.js": "/joowahn/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/joowahn/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/joowahn/index.html",
+    "precache-manifest.d34b16294e69814c0a5f1ad5cd53b2a6.js": "/joowahn/precache-manifest.d34b16294e69814c0a5f1ad5cd53b2a6.js",
+    "service-worker.js": "/joowahn/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/joowahn/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/joowahn/static/media/logo.5d5d9eef.svg"
+  }
+}
