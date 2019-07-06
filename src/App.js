@@ -6,16 +6,15 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        {/* <img src={logo} className="App-logo" alt="logo" /> */}
 
       <div class="fullpage-wrapper">
         <div class="reactor-container">
-          <div class="reactor-container-inner circle abs-center"></div>
-          <div class="tunnel circle abs-center"></div>
-          <div class="core-wrapper circle abs-center"></div>
-          <div class="core-outer circle abs-center"></div>
-          <div class="core-inner circle abs-center"></div>
-          <div class="coil-container">
+            <div class="reactor-container-inner circle abs-center"></div>
+            <div class="tunnel circle abs-center"></div>
+            <div class="core-wrapper circle abs-center"></div>
+            <div class="core-outer circle abs-center"></div>
+            <div class="core-inner circle abs-center"></div>
+            <div class="coil-container">
             <div class="coil coil-1"></div>
             <div class="coil coil-2"></div>
             <div class="coil coil-3"></div>
